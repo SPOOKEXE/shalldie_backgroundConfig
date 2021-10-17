@@ -1,0 +1,41 @@
+{
+    "background.enabled": true,
+    "background.useDefault": false,
+    "background.loop": true,
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "background-position": "100% 100%",
+        "width": "100%",
+        "height": "100%",
+        "background-size": "contain",
+        "background-repeat": "no-repeat",
+        "opacity": 0.2
+    },
+    "background.customImages": [
+        "file:///D:/Everything/Media/123128.jpg",
+        "file:///D:/Everything/Media/505642.png",
+        "file:///D:/Everything/Media/607631.jpg",
+        "file:///D:/Everything/Media/681616.jpg",
+        "file:///D:/Everything/Media/738915.png",
+        "file:///D:/Everything/Media/784799.jpg",
+        "file:///D:/Everything/Media/788711.jpg",
+        "file:///D:/Everything/Media/818362.jpg",
+        "file:///D:/Everything/Media/876842.png",
+        "file:///D:/Everything/Media/926680.png",
+        "file:///D:/Everything/Media/933999.jpg",
+        "file:///D:/Everything/Media/951581.jpg",
+        "file:///D:/Everything/Media/959473.jpg",
+        "file:///D:/Everything/Media/971531.jpg",
+        "file:///D:/Everything/Media/1000164.jpg",
+        "file:///D:/Everything/Media/1034663.png",
+        "file:///D:/Everything/Media/1052280.jpg",
+        "file:///D:/Everything/Media/1085875.jpg",
+        "file:///D:/Everything/Media/1116286.jpg",
+        "file:///D:/Everything/Media/1143232.jpg",
+        "file:///D:/Everything/Media/1163408.jpg",
+        "file:///D:/Everything/Media/kanna.png"
+    ]
+}
